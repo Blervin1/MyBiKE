@@ -14,7 +14,7 @@ MyBiKE is a modern, responsive landing page designed for a bike rental service. 
 
 ## Preview
 
-You can view the live preview of the project [here](https://blervin1.github.io/layout_landing-page/).
+You can view the live preview of the project [here](https://blervin1.github.io/MyBiKE/).
 
 ## Design Mockup
 
